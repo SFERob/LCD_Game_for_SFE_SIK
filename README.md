@@ -3,6 +3,7 @@
 This is a short bit of code designed to run a simple one-button, time wasting game using thesame setup found in the [SparkFun Inventors Kit v 4.1, project 4C](https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v41/all#circuit-4c-diy-who-am-i-game). It also demonstrates the possibilities of creating new characters in an LCD display.
 
 ![SIK v4.1 Circuit 4C](https://user-images.githubusercontent.com/29868735/64041706-6d509b00-cb1d-11e9-8db4-a41f9d308f58.jpg)
+
 --> <i> *SparkFun Inventor's Kit v4.1 Circuit 4C, by SparkFun, is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) * </i> <--
 
 
