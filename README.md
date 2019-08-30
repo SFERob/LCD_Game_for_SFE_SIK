@@ -4,6 +4,7 @@ This is a short bit of code designed to run a simple one-button, time wasting ga
 
 ![SIK v4.1 Circuit 4C](https://user-images.githubusercontent.com/29868735/64041706-6d509b00-cb1d-11e9-8db4-a41f9d308f58.jpg)
 
+
 <p align="center"> SIK v4.1 Circuit 4C, by SparkFun, is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). </p>
 
 
