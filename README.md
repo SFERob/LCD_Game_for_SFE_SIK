@@ -7,7 +7,7 @@ This is a short bit of code designed to run a simple one-button, time wasting ga
 
 Pressing the button starts the game, and the little figure will begin running. Obstacles will start moving towards your runner, and pressing the button will cause the runner to jump. Just don't jump when there's an obstacle overhead! The score is displayed in the upper right hand corner of the LCD, and is simply the number of seconds your runner has survived! I'm thinking of adding a High Score feature, but we'll see if time allows.
 
-
+![https://user-images.githubusercontent.com/29868735/64041707-6d509b00-cb1d-11e9-9ebc-d64909a0180e.jpg]
 
 Have fun, and Happy Hacking!
  
